@@ -1,4 +1,4 @@
-```markdown
+
 # Pink Envelope Interactive Animation
 
 Source : https://github.com/heryyy/pink-envelope
@@ -9,17 +9,15 @@ A simple, lightweight HTML/CSS/JavaScript demo of a floating pink envelope that 
 
 ## 🔍 Project Structure
 
-```
 
 .
 ├── index.html      ← Main HTML file
-└── README.md       ← This documentation
 
-````
+. └── README.md       ← This documentation
+
+
 
 All styles and scripts are inlined in `index.html` for ease of use. No build tools or server required.
-
----
 
 ## ✨ Features
 
@@ -37,7 +35,6 @@ All styles and scripts are inlined in `index.html` for ease of use. No build too
   CSS variables let you adjust envelope, flap, heart, sparkle, wax seal, and background colors.  
   Includes a handwritten cursive font (Handlee) for the message.
 
----
 
 ## 🚀 Usage
 
@@ -45,7 +42,7 @@ All styles and scripts are inlined in `index.html` for ease of use. No build too
    ```bash
    git clone https://github.com/your-username/pink-envelope-demo.git
    cd pink-envelope-demo
-````
+
 
 2. **Open in Browser**
    Simply open `index.html` in any modern browser (Chrome, Firefox, Safari, Edge).
@@ -108,7 +105,3 @@ Feel free to open issues or submit pull requests for:
 * Vanilla-JS refactor (no external libs)
 * Performance optimizations
 
----
-
-```
-```
